@@ -6,7 +6,7 @@ import type {
 } from '@/features/diagnosis/model/types';
 
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? 'https://rarebridge-backend.onrender.com';
+  process.env.NEXT_PUBLIC_API_BASE_URL ?? 'https://rarebridge-backend-docker.onrender.com';
 
 export async function postDpo(
   text: string,
