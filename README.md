@@ -127,6 +127,15 @@ API 서버는 사용자 요청을 받아 핵심 로직을 처리하는 영역입
 ---  
 
 ## 6. 🎥 시연 영상
-주요 기능과 전체 동작 흐름은 아래 시연 영상을 통해 확인할 수 있습니다.
 
-- [RareBridge 시연 영상](https://drive.google.com/file/d/1nCF6sr1GR9A5PBiQQLx_k46Nz5IhZ--d/view?usp=drive_link)
+주요 기능과 전체 동작 흐름은 아래 이미지를 클릭해 확인할 수 있습니다. 
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1nCF6sr1GR9A5PBiQQLx_k46Nz5IhZ--d/view?usp=drive_link">
+    <img src="./apps/frontend/public/rarebridge-main.png" alt="RareBridge 서비스 이미지" width="750"/>
+  </a>
+</p>
+
+<p align="center">
+  이미지를 클릭하면 시연 영상으로 이동합니다.
+</p>
